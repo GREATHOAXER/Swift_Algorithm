@@ -26,6 +26,7 @@
 		D49B57722ABF65A6008D2D51 /* SwiftAlgorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftAlgorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		D49B57752ABF65A6008D2D51 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D49B577D2ABF661A008D2D51 /* 12909(올바른 괄호).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12909(올바른 괄호).swift"; sourceTree = "<group>"; };
+		D49B577E2AC1EA3C008D2D51 /* 42748(K번째수).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "42748(K번째수).swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +69,7 @@
 			isa = PBXGroup;
 			children = (
 				D49B577D2ABF661A008D2D51 /* 12909(올바른 괄호).swift */,
+				D49B577E2AC1EA3C008D2D51 /* 42748(K번째수).swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";

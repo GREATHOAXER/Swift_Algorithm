@@ -3,7 +3,8 @@
 //  SwiftAlgorithm
 //
 //  Created by Hyung Seo Han on 2023/09/24.
-// link : https://school.programmers.co.kr/learn/courses/30/lessons/12909
+//  알고리즘 종류 : Stack
+//  link : https://school.programmers.co.kr/learn/courses/30/lessons/12909
 
 import Foundation
 struct Stack<T> {
