@@ -1,12 +1,12 @@
 //
-//  main.swift
+//  16507(어두운 건 무서워).swift
 //  SwiftAlgorithm
 //
-//  Created by Hyung Seo Han on 2023/09/24.
-//
-
+//  Created by Hyung Seo Han on 2023/10/25.
+//  link : https://www.acmicpc.net/problem/16507
 
 import Foundation
+
 
 let input = Array(readLine()!.split(separator: " ").map {
     Int(String($0))!
