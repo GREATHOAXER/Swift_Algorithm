@@ -34,6 +34,9 @@
 		D46C7F902ADEFB2C003D5250 /* 21921(블로그).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "21921(블로그).swift"; sourceTree = "<group>"; };
 		D46C7F932AE81EF3003D5250 /* 16507(어두운 건 무서워).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "16507(어두운 건 무서워).swift"; sourceTree = "<group>"; };
 		D46C7F942AE81F1A003D5250 /* Summerization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Summerization.swift; sourceTree = "<group>"; };
+		D46C7F952AECF4D2003D5250 /* 11660(구간 합 구하기5).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11660(구간 합 구하기5).swift"; sourceTree = "<group>"; };
+		D46C7F962AF1577F003D5250 /* 17427(약수의 합2).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17427(약수의 합2).swift"; sourceTree = "<group>"; };
+		D46C7F972AF15EAD003D5250 /* 17425(약수의 합).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "17425(약수의 합).swift"; sourceTree = "<group>"; };
 		D49B57722ABF65A6008D2D51 /* SwiftAlgorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftAlgorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		D49B57752ABF65A6008D2D51 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D49B577D2ABF661A008D2D51 /* 12909(올바른 괄호).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12909(올바른 괄호).swift"; sourceTree = "<group>"; };
@@ -73,13 +76,16 @@
 		D444C24F2AD6F60700E6DD86 /* Cumulative Sum */ = {
 			isa = PBXGroup;
 			children = (
+				D46C7F8E2ADB28D7003D5250 /* 2559(수열).swift */,
 				D444C2502AD6F61600E6DD86 /* 11441(합 구하기).swift */,
 				D444C2512AD85D3200E6DD86 /* 11659(구간 합 구하기4).swift */,
-				D46C7F8E2ADB28D7003D5250 /* 2559(수열).swift */,
-				D46C7F8F2ADEF7F8003D5250 /* 25682(not solved).swift */,
-				D46C7F902ADEFB2C003D5250 /* 21921(블로그).swift */,
+				D46C7F952AECF4D2003D5250 /* 11660(구간 합 구하기5).swift */,
 				D46C7F932AE81EF3003D5250 /* 16507(어두운 건 무서워).swift */,
+				D46C7F902ADEFB2C003D5250 /* 21921(블로그).swift */,
+				D46C7F8F2ADEF7F8003D5250 /* 25682(not solved).swift */,
 				D46C7F942AE81F1A003D5250 /* Summerization.swift */,
+				D46C7F962AF1577F003D5250 /* 17427(약수의 합2).swift */,
+				D46C7F972AF15EAD003D5250 /* 17425(약수의 합).swift */,
 			);
 			path = "Cumulative Sum";
 			sourceTree = "<group>";
